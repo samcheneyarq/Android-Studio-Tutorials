@@ -53,3 +53,5 @@ Managing Pull Requests (or Peer Reviews) inside of Android Studio is not only mo
     - find next issue/error/bug in a file
 - cmd + { or }
     - take one move (action) backward or forward
+- cmd + option + L
+    - format selected code
