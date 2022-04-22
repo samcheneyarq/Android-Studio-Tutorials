@@ -13,7 +13,7 @@ The following guide will explain how to set up Android Studio so that you can do
 
 - [ ] Set up [Charles](https://developers.mopub.com/publishers/tools/charles/)
 
-Charles is a separate application that is used to send API Requests and receive API Responses. It will be used frequently on projects to understand the flow of data between the client and the server. Charles can be a bit tricky to set up so feel free to ask for help when you need credentials or 
+Charles is a separate application that is used to examine API Requests and API Responses. It will be used frequently on projects to understand the flow of data between the client and the server. Charles can be a bit tricky to set up so feel free to ask for help when you need credentials or 
 
 
 - [ ] Set up [Github](https://github.com) or [Bitbucket](https://bitbucket.org)
