@@ -42,16 +42,16 @@ Managing Pull Requests (or Peer Reviews) inside of Android Studio is not only mo
 ## Useful Shortcuts
 
 - cmd + shift + F
-    - search all files
+   > search all files
 - shift, shift
-    - search by file
+    > search by file
 - cmd + shift + L
-    - search in Google
+    > search in Google
 - cmd + K
-    - bring up commit menu
+    > bring up commit menu
 - fn + F2
-    - find next issue/error/bug in a file
+    > find next issue/error/bug in a file
 - cmd + { or }
-    - take one move (action) backward or forward
+    > take one move (action) backward or forward
 - cmd + option + L
-    - format selected code
+    > format selected code
