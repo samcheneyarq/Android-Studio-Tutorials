@@ -2,7 +2,7 @@
 
 The following guide will explain how to set up Android Studio so that you can do as much as possible from the Integrated Development Environment (IDE). This will make your coding more efficient and help you better understand developer operations (DevOps). 
 
-- [ ] Install [Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIzJ3FoeiN9wIVFH8rCh3LvQomEAAYASAAEgJuWvD_BwE&gclsrc=aw.ds) (AS) 
+- [] Install [Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIzJ3FoeiN9wIVFH8rCh3LvQomEAAYASAAEgJuWvD_BwE&gclsrc=aw.ds) (AS) 
 
 
 - [ ] Set up an [Emulator](https://developer.android.com/studio/run/emulator)
