@@ -18,7 +18,7 @@ Charles is a separate application that is used to send API Requests and receive 
 
 - [ ] Set up [Github](https://github.com) or [Bitbucket](https://bitbucket.org)
 
-This step will be project specific. You will need to speak with your Tech Lead to find out which Version Control Repository (repo) your team will be using. Sign into the appropriate platform and connect it with Android Studio.
+This step will be project specific. You will need to speak with your Tech Lead to find out which online Version Control Repository (repo) your team will be using. Sign into the appropriate platform and connect it with Android Studio.
 
 
 - [ ]  Understanding Git in Android Studio
@@ -28,18 +28,28 @@ There are lots of options for handling Git (command line, SourceTree, Fork...) b
 
 - [ ] Set up Pull Request (PR) management inside IDE
 
-Managing Pull Requests (or Peer Reviews) inside of 
+Managing Pull Requests (or Peer Reviews) inside of Android Studio is not only more efficient than viewing them in Github or Bitbucket, but it will also help you understand how the code works in context.
 
 
-——— Further reading ———
+##Further reading
 
 
 - [ ] Understanding Logcat
-
-
-
 - [ ] Understanding Debugging
+- [ ] Understaning [Android Virtual Device](https://developer.android.com/studio/run/emulator-commandline) (AVD) commands
 
 
+##Useful Shortcuts
 
-- [ ] Understaning Android Virtual Device (AVD)
+- cmd + shift + F
+    - search all files
+- shift, shift
+    - search by file
+- cmd + shift + L
+    - search in Google
+- cmd + K
+    - bring up commit menu
+- fn + F2
+    - find next issue/error/bug in a file
+- cmd + { or }
+    - take one move (action) backward or forward
