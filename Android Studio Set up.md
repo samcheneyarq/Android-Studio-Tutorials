@@ -1,4 +1,4 @@
-#Setting up Android Studio
+# Setting up Android Studio
 
 The following guide will explain how to set up Android Studio so that you can do as much as possible from the Integrated Development Environment (IDE). This will make your coding more efficient and help you better understand developer operations (DevOps). 
 
