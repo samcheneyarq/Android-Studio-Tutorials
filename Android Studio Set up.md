@@ -31,7 +31,7 @@ There are lots of options for handling Git (command line, SourceTree, Fork...) b
 Managing Pull Requests (or Peer Reviews) inside of Android Studio is not only more efficient than viewing them in Github or Bitbucket, but it will also help you understand how the code works in context.
 
 
-##Further reading
+## Further reading
 
 
 - [ ] Understanding Logcat
@@ -39,7 +39,7 @@ Managing Pull Requests (or Peer Reviews) inside of Android Studio is not only mo
 - [ ] Understaning [Android Virtual Device](https://developer.android.com/studio/run/emulator-commandline) (AVD) commands
 
 
-##Useful Shortcuts
+## Useful Shortcuts
 
 - cmd + shift + F
     - search all files
