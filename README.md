@@ -7,6 +7,7 @@ The following guide will explain how to set up Android Studio so that you can do
 
 - [ ] Set up an [Emulator](https://developer.android.com/studio/run/emulator)
 
+Emulators are software version of Android Devices that run in a container on your computer. Emulators can be used to test your application quickly and on several Operating System (OS) versions; however, you should always run your last tests on a physical device before lodging a Pull Request (PR).
 
 - [ ] Set up a [Physical Device](https://developer.android.com/studio/run/device)
 
